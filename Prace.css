@@ -1,0 +1,30 @@
+@charset "utf-8";
+#Prace {
+	font-size: 36px;
+	font-style: normal;
+	color: #06F;
+	background-color: #FF9;
+	text-align: center;
+	margin: 20px;
+	height: 1200px;
+	width: 1000px;
+	border: 50px solid #CF0;
+	padding-left: 500px;
+	padding-right: 500px;
+}
+#Prace p {
+	font-size: 36mm;
+}
+#Prace p {
+	font-size: 16px;
+}
+#Prace p {
+	font-size: 16mm;
+}
+#Prace p {
+	font-size: 16px;
+}
+#Prace p {
+	font-size: 24mm;
+	text-align: center;
+}
